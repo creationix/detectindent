@@ -1,0 +1,7 @@
+{
+  "name": "detectindent",
+  "author": "Tim Caswell",
+  "description": "A tiny library to detect the indent format used in a source file",
+  "version": "0.0.1",
+  "main": "detect.js"
+}
